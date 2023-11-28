@@ -10,3 +10,5 @@ finetune_checkpoints/
 docker_child/
 .venv*
 wandb
+current_prediction.png
+data
