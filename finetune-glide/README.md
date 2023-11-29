@@ -1,8 +1,4 @@
 # glide-finetune
-```
-Will: Ran with Python 3.10.0.
-```
-
 
 [colab](https://github.com/eliohead/glide-finetune-colab)
 

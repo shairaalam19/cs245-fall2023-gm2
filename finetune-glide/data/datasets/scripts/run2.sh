@@ -1,11 +1,3 @@
-cd coco
-cd images
-
+cd coco/images/
 curl -O http://images.cocodataset.org/zips/val2017.zip
-
-unzip val2017.zip
-
-rm val2017.zip
-
-cd ../
-curl -O http://images.cocodataset.org/annotations/stuff_annotations_trainval2017.zip
+curl -O http://images.cocodataset.org/zips/test2017.zip
