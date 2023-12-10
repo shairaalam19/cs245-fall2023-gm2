@@ -1,6 +1,7 @@
 # GM2: Improving Caption Similarity with GLIDE Generative Models
 
 - [GM2: Improving Caption Similarity with GLIDE Generative Models](#gm2-improving-caption-similarity-with-glide-generative-models)
+  - [Project report](#project-report)
   - [Dataset](#dataset)
   - [Run our own trained models](#run-our-own-trained-models)
   - [Train your own models](#train-your-own-models)
@@ -8,6 +9,10 @@
   - [Evaluation](#evaluation)
   - [Project presentation slides](#project-presentation-slides)
   - [Team](#team)
+
+## Project report
+
+Find the report [here](./final_report.pdf).
 
 ## Dataset
 
